@@ -1,0 +1,13 @@
+# Market data (multi-GB NASDAQ ITCH files) - see README for download instructions
+data/
+*.NASDAQ_ITCH50
+*.NASDAQ_ITCH50.gz
+*.gz
+
+# Build output
+build/
+FeedHandler/build/
+
+# Editor / OS
+.vscode/
+.DS_Store
